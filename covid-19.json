@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Are you fully vaccinated against COVID-19?",
+        "secondary": "(Has it been 14 days or more since your final dose of either a two-dose or a one-dose vaccine series)?",
+        "type": "single",
+        "options": [
+            "Yes",
+            "No",
+            "Prefer not to say"
+        ],
+        "id":1
+    },
+    {
+        "question": "Do You Have any of the Following Symptoms or signs?",
+        "secondary": "(Has it been 14 days or more since your final dose of either a two-dose or a one-dose vaccine series)?",
+        "type": "multi",
+        "options": [
+            "Fever or Chills",
+            "Difficulty breathing or shortness of breath",
+            "Cough or barking cough (croup)",
+            "Decrease or loss of smell or taste",
+            "Not feeling well, extreme tiredness/fatigue"
+        ],
+        "id":2
+    },
+    {
+        "question": "Have you travelled outside of USA or had close contact with anyone that has travelled outside of USA in the past 14 days?",
+        "type": "single",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "id":3
+    },
+    {
+        "question": "Have you had close contact with anyone with respiratory illness or a confirmed or probable case of COVID-19?",
+        "type": "single",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "id":4
+    },
+    {
+        "question": "Has a doctor, health care provider, or public health unit told you that you should currently be isolating?",
+        "secondary": "(staying at home)",
+        "type": "single",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "id":5
+    },
+    {
+        "question": "In the last 10 days, have you tested positive on a rapid antigen test or a home-based self-testing kit?",
+        "secondary": "(If you have since tested negative on a lab-based PCR test, select no)",
+        "type": "single",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "id":6
+    },
+    {
+        "question": "Are you going to be onsite today?",
+        "type": "single",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "id":7
+    }
+]
+    
+        
+        
+ 
